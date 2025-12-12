@@ -6,7 +6,7 @@ Bem-vindo ao repositório do **Tradutor IA**, um projeto criado para aprender, p
 
 ## 🚀 Sobre o Projeto
 
-O objetivo deste projeto é construir um **tradutor inteligente** capaz de traduzir textos entre diferentes idiomas (como Português ↔ Japonês), utilizando APIs de IA e técnicas modernas de NLP.
+O objetivo deste projeto é, além de treinar e aprimorar minhas habilidades na área da programação, construir um **tradutor inteligente** capaz de traduzir textos entre o Português e o Japonês, utilizando APIs de IA.
 
 Este projeto serve tanto como **experimento educacional** quanto base para aplicações mais avançadas.
 
